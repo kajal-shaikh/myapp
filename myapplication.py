@@ -5,7 +5,7 @@ import socket
 from pygame import mixer
 
 
-pyttsx3.speak("hey lets chat")
+pyttsx3.speak("hello user lets chat")
 while True:
 	print("Hey lets chat" , end='')
 	inp=input()
